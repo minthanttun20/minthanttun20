@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Min Thant Tun</h1>
-<h3 align="center">Final-Year Cybersecurity Student From UOW</h3>
+<h1 align="center">Hello, I'm Min Thant Tun</h1>
+<h3 align="center">Final-Year Cybersecurity Student passionate about Blue Team operations, SOC analysis and ethical hacking.</h3>
 
 - 📫 How to reach me **minthanthtun15907@gmail.com**
 
