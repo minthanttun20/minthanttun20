@@ -4,3 +4,4 @@
 ## Certifications
 <img src="https://img.shields.io/badge/-Security%2B-6F42C1?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
+[![PLATFORM: MODULE NAME - Complete](https://img.shields.io/badge/PLATFORM-%20MODULE%20NAME%20%E2%80%93%20Complete-COLOR?style=for-the-badge&logo=LOGO_ID&logoColor=white)](MODULE_LINK)
