@@ -4,4 +4,8 @@
 ## Certifications
 <img src="https://img.shields.io/badge/-Security%2B-6F42C1?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
-[![PLATFORM: MODULE NAME - Complete](https://img.shields.io/badge/PLATFORM-%20MODULE%20NAME%20%E2%80%93%20Complete-COLOR?style=for-the-badge&logo=LOGO_ID&logoColor=white)](MODULE_LINK)
+
+<br/>
+[![TryHackMe: Intro to Blue Team - Complete](https://img.shields.io/badge/TryHackMe-%20Intro%20to%20Blue%20Team%20%E2%80%93%20Complete-005571?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![TryHackMe: Web Fundamentals - Complete](https://img.shields.io/badge/TryHackMe-%20Web%20Fundamentals%20%E2%80%93%20Complete-6F42C1?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+
