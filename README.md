@@ -7,26 +7,24 @@
 ---
 
 ## 👨‍💻 About Me
-[cite_start]CompTIA Security+ and Qualys VMDR certified cybersecurity professional with hands-on experience across SIEM deployment, threat detection, and incident response in 100+ simulated SOC scenarios[cite: 5]. [cite_start]I specialize in architecting efficient security systems, including a cryptographic signature aggregation system that reduced IoT verification overhead from $O(N)$ to $O(1)$[cite: 6]. [cite_start]Currently seeking an entry-level Security Engineer or SOC Analyst role to apply my detection and response skills in a real-world environment[cite: 9].
+CompTIA Security+ and Qualys VMDR certified cybersecurity professional with hands-on experience across SIEM deployment, threat detection, and incident response in 100+ simulated SOC scenarios. I specialize in architecting efficient security systems, including a cryptographic signature aggregation system that reduced IoT verification overhead from $O(N)$ to $O(1). Currently seeking an entry-level Security Engineer or SOC Analyst role to apply my detection and response skills in a real-world environment.
 
 ---
 
 ## 🎓 Education
-* **Bachelor of Computer Science (Cyber Security)** | [cite_start]University of Wollongong 
-* **Diploma of Information Technology** | [cite_start]Singapore Institute of Management 
+* **Bachelor of Computer Science (Cyber Security)** | University of Wollongong 
+* **Diploma of Information Technology** | Singapore Institute of Management 
 
 ---
 
 ## 🔭 Current Focus
-* [cite_start]**IoT Cyber Defence:** Currently an Extern at **Hydroficient**, executing hands-on threat modeling and network hardening for connected devices[cite: 23, 24, 25].
-* [cite_start]**AI/ML Security:** Exploring prompt injection techniques and adversarial attacks on ML models[cite: 20].
-* **Master's Preparation:** Researching advanced Computing programs for the August 2026 intake.
+* Preparing for CCNA
 
 ---
 
 ## 📜 Certifications
-[cite_start]![Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-6F42C1?style=for-the-badge&logo=comptia&logoColor=white) [cite: 60]
-[cite_start]![Qualys VMDR](https://img.shields.io/badge/-Qualys%20VMDR-ED1C24?style=for-the-badge&logo=qualys&logoColor=white) [cite: 61]
+[Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-6F42C1?style=for-the-badge&logo=comptia&logoColor=white)
+![Qualys VMDR(https://img.shields.io/badge/-Qualys%20VMDR-ED1C24?style=for-the-badge&logo=qualys&logoColor=white)
 
 ---
 
