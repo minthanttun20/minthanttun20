@@ -27,7 +27,6 @@ Preparing for **CCNA (Cisco Certified Network Associate)**
 
 ## 📜 Certifications
 ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-6F42C1?style=for-the-badge&logo=comptia&logoColor=white)
-
 ![Qualys VMDR](https://img.shields.io/badge/-Qualys%20VMDR-ED1C24?style=for-the-badge&logo=qualys&logoColor=white)
 
 ---
