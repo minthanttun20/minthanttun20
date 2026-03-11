@@ -2,10 +2,6 @@
 
 🛡️ **Cybersecurity Professional** | 🛜 **Network Engineer**
 
-<a href="https://www.linkedin.com/in/min-thant-tun-b76111294/">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 ---
 
 ## 👨‍💻 About Me
@@ -45,3 +41,11 @@ Preparing for **CCNA (Cisco Certified Network Associate)**
 | **Virtualization & Ops** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-21ABD5?style=flat-square&logo=virtualbox) |
 | **Operating Systems** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows) |
 | **Programming** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+
+---
+
+## 📧 Connect With Me
+
+<a href="https://www.linkedin.com/in/min-thant-tun-b76111294/">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
