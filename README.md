@@ -1,6 +1,6 @@
 # Hi, I'm Min Thant Tun
 
-🛡️ **Cybersecurity Professional** | 🛜 **Network Engineer**
+🛡️ **Cybersecurity Professional** | 🌐 **Network Engineer**
 
 ---
 
@@ -8,14 +8,15 @@
 CompTIA Security+ and Qualys VMDR certified cybersecurity professional with hands-on experience in SIEM deployment, threat detection, and incident response through 100+ simulated SOC scenarios. I specialize in building efficient security systems, including a cryptographic signature aggregation system that reduced IoT verification overhead from **O(N)** to **O(1)**. 
 
 I am currently seeking an **entry-level Security Engineer or SOC Analyst role** where I can apply my detection, monitoring, and incident response skills in a real-world environment.
-🎓 Education
+
+🎓 Education:
 * **Bachelor of Computer Science (Cyber Security)** | University of Wollongong
 * **Diploma of Information Technology**  | Singapore Institute of Management
 
 ---
 
-## 🔭 Current Focus
-Preparing for **CCNA (Cisco Certified Network Associate)**
+## Current Focus
+* Preparing for **CCNA (Cisco Certified Network Associate)**
 ---
 
 ## 🔐 Security Projects
@@ -26,7 +27,7 @@ Preparing for **CCNA (Cisco Certified Network Associate)**
 
 ---
 
-## 📜 Certifications
+## Certifications
 ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-6F42C1?style=for-the-badge&logo=comptia&logoColor=white)
 ![Qualys VMDR](https://img.shields.io/badge/-Qualys%20VMDR-ED1C24?style=for-the-badge&logo=qualys&logoColor=white)
 
