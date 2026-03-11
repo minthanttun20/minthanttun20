@@ -3,7 +3,7 @@
 🛡️ **Cybersecurity Professional** | 🌐 **Network Engineer**
 
 
-## 👨‍💻 About Me
+## About Me
 CompTIA Security+ and Qualys VMDR certified cybersecurity professional with hands-on experience in SIEM deployment, threat detection, and incident response through 100+ simulated SOC scenarios. I specialize in building efficient security systems, including a cryptographic signature aggregation system that reduced IoT verification overhead from **O(N)** to **O(1)**. 
 
 I am currently seeking an **entry-level Security Engineer or SOC Analyst role** where I can apply my detection, monitoring, and incident response skills in a real-world environment.
