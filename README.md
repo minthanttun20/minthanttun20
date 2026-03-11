@@ -16,10 +16,10 @@ I am currently seeking an **entry-level Security Engineer or SOC Analyst role** 
 ## Current Focus
 * Preparing for **CCNA (Cisco Certified Network Associate)**
 
-## 🔐 Security Projects
+## Security Projects
 
 
-## 🌐 Networking Projects
+## Networking Projects
 
 
 ## Certifications
@@ -27,7 +27,7 @@ I am currently seeking an **entry-level Security Engineer or SOC Analyst role** 
 ![Qualys VMDR](https://img.shields.io/badge/-Qualys%20VMDR-ED1C24?style=for-the-badge&logo=qualys&logoColor=white)
 
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 | Category | Tools & Technologies |
 | :--- | :--- |
