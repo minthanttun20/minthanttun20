@@ -8,20 +8,21 @@
 CompTIA Security+ and Qualys VMDR certified cybersecurity professional with hands-on experience in SIEM deployment, threat detection, and incident response through 100+ simulated SOC scenarios. I specialize in building efficient security systems, including a cryptographic signature aggregation system that reduced IoT verification overhead from **O(N)** to **O(1)**. 
 
 I am currently seeking an **entry-level Security Engineer or SOC Analyst role** where I can apply my detection, monitoring, and incident response skills in a real-world environment.
-
----
-
-## 🎓 Education
-**Bachelor of Computer Science (Cyber Security)**  
-University of Wollongong
-
-**Diploma of Information Technology**  
-Singapore Institute of Management
+🎓 Education
+* **Bachelor of Computer Science (Cyber Security)** | University of Wollongong
+* **Diploma of Information Technology**  | Singapore Institute of Management
 
 ---
 
 ## 🔭 Current Focus
 Preparing for **CCNA (Cisco Certified Network Associate)**
+---
+
+## 🔐 Security Projects
+
+---
+
+## 🌐 Networking Projects
 
 ---
 
