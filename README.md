@@ -2,7 +2,6 @@
 
 🛡️ **Cybersecurity Professional** | 🌐 **Network Engineer**
 
----
 
 ## 👨‍💻 About Me
 CompTIA Security+ and Qualys VMDR certified cybersecurity professional with hands-on experience in SIEM deployment, threat detection, and incident response through 100+ simulated SOC scenarios. I specialize in building efficient security systems, including a cryptographic signature aggregation system that reduced IoT verification overhead from **O(N)** to **O(1)**. 
@@ -13,25 +12,20 @@ I am currently seeking an **entry-level Security Engineer or SOC Analyst role** 
 * **Bachelor of Computer Science (Cyber Security)** | University of Wollongong
 * **Diploma of Information Technology**  | Singapore Institute of Management
 
----
 
 ## Current Focus
 * Preparing for **CCNA (Cisco Certified Network Associate)**
----
 
 ## 🔐 Security Projects
 
----
 
 ## 🌐 Networking Projects
 
----
 
 ## Certifications
 ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-6F42C1?style=for-the-badge&logo=comptia&logoColor=white)
 ![Qualys VMDR](https://img.shields.io/badge/-Qualys%20VMDR-ED1C24?style=for-the-badge&logo=qualys&logoColor=white)
 
----
 
 ## 🛠️ Technical Arsenal
 
@@ -43,7 +37,6 @@ I am currently seeking an **entry-level Security Engineer or SOC Analyst role** 
 | **Operating Systems** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows) |
 | **Programming** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 
----
 
 ## 📧 Connect With Me
 
