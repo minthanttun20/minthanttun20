@@ -47,6 +47,7 @@ I am currently seeking an **entry-level Security Engineer or SOC Analyst role** 
 
 ## 📧 Connect With Me
 
-<a href="https://www.linkedin.com/in/min-thant-tun-b76111294/">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-Hugh_Chanetsa-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-thant-tun-b76111294/)
+[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=flat-square&logo=protonmail&logoColor=white)](minthanthtun15907@gmail.com)
+
+
