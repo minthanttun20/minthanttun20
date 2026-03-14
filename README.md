@@ -14,7 +14,7 @@ I am currently seeking an **entry-level Security Engineer or SOC Analyst role** 
 
 
 ## Current Focus
-* Preparing for **CCNA (Cisco Certified Network Associate)**
+* Doing THM Labs
 
 ## Security Projects
 
