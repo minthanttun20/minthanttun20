@@ -14,10 +14,10 @@ I am currently seeking an **entry-level Security Engineer or SOC Analyst role** 
 
 
 ## Current Focus
-* ./THM-Cyber-Labs
+* Completing advanced paths on **TryHackMe**
 
 ## Security Projects
-
+[TryHackMe Cyber Labs (Write-ups & Scripts)](https://github.com/minthanttun20/THM-Cyber-Labs)
 
 ## Networking Projects
 
