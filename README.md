@@ -14,7 +14,7 @@ I am currently seeking an **entry-level Security Engineer or SOC Analyst role** 
 
 
 ## Current Focus
-* Doing THM Labs
+* ./THM-Cyber-Labs
 
 ## Security Projects
 
