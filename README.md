@@ -1,4 +1,4 @@
-# Hi, I'm Min Thant Tun
+# Hi, I'm MIN THANT TUN
 
 🛡️ **Cybersecurity Professional** | 🌐 **Network Engineer**
 
