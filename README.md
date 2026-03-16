@@ -1,6 +1,6 @@
 # Hi, I'm MIN THANT TUN
 
-🛡️ **Cybersecurity Professional** | 🌐 **Network Engineer**
+🛡️ **Cybersecurity Professional**
 
 
 ## About Me
