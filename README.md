@@ -18,6 +18,8 @@ I am currently seeking an **entry-level Security Engineer or SOC Analyst role** 
 
 ## Security Projects
 [TryHackMe Cyber Labs (Write-ups & Scripts)](https://github.com/minthanttun20/THM-Cyber-Labs)
+[Phishing Sandbox Soar](https://github.com/minthanttun20/phishing-sandbox-soar
+)
 
 ## Networking Projects
 
