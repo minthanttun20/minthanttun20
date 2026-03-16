@@ -17,7 +17,7 @@ I am currently seeking an **entry-level Security Engineer or SOC Analyst role** 
 * Completing Jr Penetration Tester on **TryHackMe**
 
 ## Security Projects
-[TryHackMe Cyber Labs (Write-ups & Scripts)](https://github.com/minthanttun20/THM-Cyber-Labs)
+[TryHackMe Cyber Labs (Write-ups & Scripts)](https://github.com/minthanttun20/THM-Cyber-Labs)  
 [Phishing Sandbox Soar](https://github.com/minthanttun20/phishing-sandbox-soar
 )
 
