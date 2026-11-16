@@ -16,16 +16,13 @@ I'm currently pursuing my Master of IT in Business (MITB) at SMU, and I'm lookin
 
 ## Current Focus
 * Pursuing MITB at **Singapore Management University**
-* Completing Jr Penetration Tester on **TryHackMe**
 
 ## Security Projects
-* [TryHackMe Cyber Labs (Write-ups & Scripts)](https://github.com/minthanttun20/THM-Cyber-Labs)
-* [Phishing Sandbox SOAR](https://github.com/minthanttun20/phishing-sandbox-soar)
+* Coming Soon!!!
 
 
 ## Certifications
 ![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-6F42C1?style=for-the-badge&logo=comptia&logoColor=white)
-![Qualys VMDR](https://img.shields.io/badge/-Qualys%20VMDR-ED1C24?style=for-the-badge&logo=qualys&logoColor=white)
 
 
 ## Technical Skills
