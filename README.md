@@ -1,12 +1,12 @@
 # Hi, I'm MIN THANT TUN
 
-🛡️ **Cybersecurity Professional** | 🎓 **MITB Student at Singapore Management University (SMU)**
+🛡️ **Aspiring Cybersecurity Professional** | 🎓 **MITB Student at Singapore Management University (SMU)**
 
 
 ## About Me
-CompTIA Security+ and Qualys VMDR certified cybersecurity professional with hands-on experience in SIEM deployment, threat detection, and incident response through 100+ simulated SOC scenarios. I specialize in building efficient security systems, including a cryptographic signature aggregation system that reduced IoT verification overhead from **O(N)** to **O(1)**.
+I'm a CompTIA Security+ certified cybersecurity learner who is passionate about growing into a career in security. So far, I've been building my skills hands-on through SIEM deployment, threat detection, and incident response practice across 100+ simulated SOC scenarios. I also enjoy learning by building, including a cryptographic signature aggregation project that reduced IoT verification overhead from **O(N)** to **O(1)**.
 
-I am currently pursuing my Master of IT in Business (MITB) at SMU, and I am seeking an **entry-level Security Engineer or SOC Analyst role** where I can apply my detection, monitoring, and incident response skills in a real-world environment.
+I'm currently pursuing my Master of IT in Business (MITB) at SMU, and I'm looking for an **entry-level Security Engineer or SOC Analyst role** where I can keep learning, contribute to a team, and grow my detection, monitoring, and incident response skills in a real-world environment.
 
 ## 🎓 Education
 * **Master of IT in Business (MITB)** | Singapore Management University (SMU) | *Current*
