@@ -1,27 +1,26 @@
 # Hi, I'm MIN THANT TUN
 
-🛡️ **Cybersecurity Professional**
+🛡️ **Cybersecurity Professional** | 🎓 **MITB Student at Singapore Management University (SMU)**
 
 
 ## About Me
-CompTIA Security+ and Qualys VMDR certified cybersecurity professional with hands-on experience in SIEM deployment, threat detection, and incident response through 100+ simulated SOC scenarios. I specialize in building efficient security systems, including a cryptographic signature aggregation system that reduced IoT verification overhead from **O(N)** to **O(1)**. 
+CompTIA Security+ and Qualys VMDR certified cybersecurity professional with hands-on experience in SIEM deployment, threat detection, and incident response through 100+ simulated SOC scenarios. I specialize in building efficient security systems, including a cryptographic signature aggregation system that reduced IoT verification overhead from **O(N)** to **O(1)**.
 
-I am currently seeking an **entry-level Security Engineer or SOC Analyst role** where I can apply my detection, monitoring, and incident response skills in a real-world environment.
+I am currently pursuing my Master of IT in Business (MITB) at SMU, and I am seeking an **entry-level Security Engineer or SOC Analyst role** where I can apply my detection, monitoring, and incident response skills in a real-world environment.
 
-🎓 Education:
+## 🎓 Education
+* **Master of IT in Business (MITB)** | Singapore Management University (SMU) | *Current*
 * **Bachelor of Computer Science (Cyber Security)** | University of Wollongong
-* **Diploma of Information Technology**  | Singapore Institute of Management
+* **Diploma of Information Technology** | Singapore Institute of Management
 
 
 ## Current Focus
+* Pursuing MITB at **Singapore Management University**
 * Completing Jr Penetration Tester on **TryHackMe**
 
 ## Security Projects
-[TryHackMe Cyber Labs (Write-ups & Scripts)](https://github.com/minthanttun20/THM-Cyber-Labs)  
-[Phishing Sandbox Soar](https://github.com/minthanttun20/phishing-sandbox-soar
-)
-
-## Networking Projects
+* [TryHackMe Cyber Labs (Write-ups & Scripts)](https://github.com/minthanttun20/THM-Cyber-Labs)
+* [Phishing Sandbox SOAR](https://github.com/minthanttun20/phishing-sandbox-soar)
 
 
 ## Certifications
@@ -45,5 +44,3 @@ I am currently seeking an **entry-level Security Engineer or SOC Analyst role** 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-thant-tun-b76111294/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:minthanthtun15907@gmail.com)
-
-
